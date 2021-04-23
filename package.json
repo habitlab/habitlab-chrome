@@ -90,7 +90,7 @@
     "mkdirp": "^0.5.1",
     "mocha": "^3.2.0",
     "module-alias": "^2.0.0",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^2.6.1",
     "optionator": "^0.8.1",
     "rewire": "^2.5.2",
     "rewire-webpack": "^1.0.1",
